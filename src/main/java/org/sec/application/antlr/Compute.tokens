@@ -1,0 +1,8 @@
+K_ADD=1
+K_SUB=2
+K_MUL=3
+K_DIV=4
+INTEGER=5
+K_CMD=6
+WS=7
+'calc'=6
